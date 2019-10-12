@@ -1,0 +1,11 @@
+{
+	"carrier":"Cigna",
+	"cid":74398,
+	"group":false,
+	"states":{
+		"ffm":true,
+		"sbm":true,
+		"county":[35345,35345],
+		"sub-group":null
+	}
+}
